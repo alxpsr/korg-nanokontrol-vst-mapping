@@ -1,4 +1,6 @@
-# Пример файла с постоянными сслыками
+# Как переопределить постоянные ссылки для VST вручную через XML (How to override generic link manually via XML)
+
+## Пример файла с постоянными ссылками
 
 ```xml
 <?xml version="1.0"?>
@@ -20,11 +22,8 @@
 `windowparam` - это айдишник контрола у вст-плагина
 `windowid` - это айдишник плагина внутри студии
 
-# Айдишники контролов на Korg Nanokontrol (v1)
+## Айдишники контролов на Korg Nanokontrol (v1)
 ![korg_map](./map.png)
 
-# Айдишники VST (SH-101)
+## Айдишники VST (SH-101)
 ![korg_map](./map-vst.png)
-
-
-How to override generic link manually via XML
