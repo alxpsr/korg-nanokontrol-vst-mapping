@@ -25,3 +25,6 @@
 
 # Айдишники VST (SH-101)
 ![korg_map](./map-vst.png)
+
+
+How to override generic link manually via XML
